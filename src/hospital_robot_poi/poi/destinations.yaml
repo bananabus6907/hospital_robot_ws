@@ -1,0 +1,33 @@
+frame_id: map
+destinations:
+- id: '301'
+  name: 301호
+  type: room
+  x: -0.026
+  y: 0.658
+  yaw: -0.147
+- id: '302'
+  name: 302호
+  type: room
+  x: 1.494
+  y: 0.454
+  yaw: 3.009
+- id: '303'
+  name: 303호
+  type: room
+  x: 1.510
+  y: -0.293
+  yaw: -3.101
+- id: 'center1'
+  name: 센터1
+  type: waypoint
+  x: 0.778
+  y: 0.596
+  yaw: 1.536
+- id: 'center2'
+  name: 센터2
+  type: waypoint
+  x: 0.825
+  y: -0.350
+  yaw: 1.550
+ 

@@ -1,0 +1,4 @@
+[console_scripts]
+safety_gate = hospital_robot_perception.safety_gate_node:main
+yolo_detector = hospital_robot_perception.yolo_detector_node:main
+
