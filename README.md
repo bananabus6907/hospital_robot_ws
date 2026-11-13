@@ -1,4 +1,4 @@
-# 🦽 노약자를 위한 음성인식 자율주행 휠체어 모듈 (졸업작품)
+# 🦽 노약자를 위한 음성인식 자율주행 휠체어 모듈 
 
 > **Voice-Enabled Autonomous Wheelchair Module for Elderly Users**
 > 충북대학교 지능로봇공학과 캡스톤디자인 Ⅰ·Ⅱ · 2025.09 ~ 2026.06 · 지도교수 김곤우
